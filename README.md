@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ccaloca" alt="ccaloca" /></a> </p>
 
-- 🔭 I’m currently working on **machine learning models.**
+- 🔭 I’m currently working on **something cool.**
 
-- 🌱 I’m currently learning **new languages and skills.**
+- 🌱 I’m currently learning **AI & ML.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
